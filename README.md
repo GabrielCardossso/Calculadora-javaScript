@@ -123,7 +123,7 @@ O projeto implementa:
 ## Clone o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/GabrielCardossso/Calculadora-javaScript
 ```
 
 ## Entre na pasta do projeto
