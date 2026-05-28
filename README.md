@@ -1,4 +1,4 @@
-# 🧮 Calculadora Web
+# 🧮 Calculadora JavaScript
 
 Projeto de uma calculadora feita com HTML, CSS e JavaScript, desenvolvida passo a passo com foco em aprendizado.
 
